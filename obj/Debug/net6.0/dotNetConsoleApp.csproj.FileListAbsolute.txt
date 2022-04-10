@@ -1,0 +1,15 @@
+/Users/fm/dotNetConsoleApp/bin/Debug/net6.0/dotNetConsoleApp
+/Users/fm/dotNetConsoleApp/bin/Debug/net6.0/dotNetConsoleApp.deps.json
+/Users/fm/dotNetConsoleApp/bin/Debug/net6.0/dotNetConsoleApp.runtimeconfig.json
+/Users/fm/dotNetConsoleApp/bin/Debug/net6.0/dotNetConsoleApp.dll
+/Users/fm/dotNetConsoleApp/bin/Debug/net6.0/dotNetConsoleApp.pdb
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/dotNetConsoleApp.csproj.AssemblyReference.cache
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/dotNetConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/dotNetConsoleApp.AssemblyInfoInputs.cache
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/dotNetConsoleApp.AssemblyInfo.cs
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/dotNetConsoleApp.csproj.CoreCompileInputs.cache
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/dotNetConsoleApp.dll
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/refint/dotNetConsoleApp.dll
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/dotNetConsoleApp.pdb
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/dotNetConsoleApp.genruntimeconfig.cache
+/Users/fm/dotNetConsoleApp/obj/Debug/net6.0/ref/dotNetConsoleApp.dll
